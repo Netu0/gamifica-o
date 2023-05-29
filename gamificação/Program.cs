@@ -10,7 +10,7 @@ var pagamento = new Pagamento();
 int opcao = 0;
 int escolha;
 
-
+//olá
 
 
 estoque.AdicionarProduto(new Bolsa()
